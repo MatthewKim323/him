@@ -33,34 +33,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-ENV/
-.venv
-*.db
-*.sqlite
-backend/.env
-backend/venv/
-backend/env/
-
-# backend temp files
-/tmp/
-backend/tmp/
-*.log
-*.mp4
-*.mov
-*.avi
-*.mkv
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
